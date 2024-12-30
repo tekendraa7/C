@@ -2,7 +2,7 @@
 int sum (int a, int b);
 int main() {
     int a, b;
-     printf("enter first number : ");
+     printf("enter first number :\n ");
      scanf("%d", &a);
      printf("enter second number : ");
      scanf("%d", &b);
