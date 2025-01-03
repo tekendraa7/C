@@ -2,6 +2,7 @@
 
   int main(){
     int leangth, breadth, height;
+    // Input values from the user
     printf("Enter the leangth of the cube or cuboid:");
     scanf("%d", &leangth);
     printf("Enter the breadth of the cube or cuboid:");
