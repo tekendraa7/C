@@ -2,5 +2,8 @@
     "other": false,
     "comments": false,
     "strings": false
-}
+},
+"json.schemas": [
+    
+]
 }
