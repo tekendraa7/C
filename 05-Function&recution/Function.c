@@ -1,5 +1,5 @@
 #include<stdio.h>
-void printHello();
+void printHello(); //function prototype&declaration
 
 int main() {
      printHello(); //function call
