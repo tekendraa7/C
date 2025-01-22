@@ -1,6 +1,6 @@
 // C program to demonstrate basic details about pointers
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int main() {
     int var = 10; // Declare an integer variable
@@ -26,5 +26,5 @@ int main() {
     // Display the new value of var
     printf("New value of var: %d\n", var);
 
-    return 0;
+    return 0; // Return 0 to indicate successful completion
 }
