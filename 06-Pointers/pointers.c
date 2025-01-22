@@ -1,6 +1,6 @@
 // C program to demonstrate basic details about pointers
 
-#include <stdio.h> 
+#include <stdio.h>
 
 int main() {
     int var = 10; // Declare an integer variable
