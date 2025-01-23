@@ -6,3 +6,7 @@ Name: Ankit Mahata
 Age: 21
 GPA: 3.90
 
+Name: Ram
+Age: 20
+GPA: 3.30
+
