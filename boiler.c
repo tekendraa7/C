@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    int a=13, b=5, c;
+    c = a | b;
+    printf("%d", c);
     return 0;
 }
