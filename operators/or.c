@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    int a=  10>>1;
-    printf("%d", a);
+    int a, b, c;
+    a = 10, b = 20;
+    c =a>b ? a:b;
+    printf("%d", c);
     return 0;
 }
