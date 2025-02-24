@@ -34,7 +34,7 @@ int main() {
     printf("Logical Operators:\n");
     printf("(%d > %d) && (%d < %d) = %d\n", a, b, a, b, (a > b) && (a < b)); // Logical AND
     printf("(%d > %d) || (%d < %d) = %d\n", a, b, a, b, (a > b) || (a < b)); // Logical OR
-    printf("!(%d > %d) = %d\n", a, b, !(a > b)); // Logical NOT
+    printf("!(%d > %d) = %d\n", a, b, !(a > b)); // Logical NOT 
 
     // Bitwise Operators
     printf("Bitwise Operators:\n");
