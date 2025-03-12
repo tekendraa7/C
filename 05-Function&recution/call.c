@@ -1,23 +1,23 @@
 #include<stdio.h>
-int f();
-int g();
-int h();
-int f(){
+int f(); // Function prototype
+int g(); // Function prototype
+int h(); // Function prototype
+int f(){ // Function definition
     printf("1");
     g();
     printf("2");
 }
-int g(){
+int g(){ // Function definition
     printf("3");
     h();
     printf("4");
 }
-int h(){
+int h(){ // Function definition
     printf("5");
 }
-int main(){
+int main(){ // Main function
     f();
     g();
     h();
-    return 0;
+    return 0; 
 }
