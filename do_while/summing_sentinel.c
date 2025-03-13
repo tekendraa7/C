@@ -1,3 +1,4 @@
+// Sum numbers entered by the user until -1 is entered
 #include <stdio.h>
 
 int main() {
