@@ -1,3 +1,4 @@
+// ascii value of all characters
 #include <stdio.h>
 int main()
 {
