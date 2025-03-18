@@ -13,7 +13,9 @@ int factorial(int n) {
 }
 
 int main() {
-    int num = 5; // Declare an integer variable and initialize it
+    int num ; // Declare an integer variable and initialize it
+    printf("Enter a positive integer: ");
+    scanf("%d", &num);
 
     // Call the recursive function and store the result
     int result = factorial(num);
