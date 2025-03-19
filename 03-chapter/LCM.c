@@ -3,9 +3,9 @@
 // Function to calculate the Greatest Common Divisor (GCD)
 int gcd(int a, int b) {
     while (b != 0) {
-        int temp = b;
+        int c = b;
         b = a % b;
-        a = temp;
+        a = c;
     }
     return a;
 }
