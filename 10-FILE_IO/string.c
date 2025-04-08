@@ -3,7 +3,7 @@
 #include <string.h>
 int main() {
     FILE *fp;
-    char str[100];
+    char str[20];
     fp = fopen("file.txt", "r");
     if (fp == NULL) {
         printf("Error opening file!\n");
