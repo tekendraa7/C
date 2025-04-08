@@ -1,4 +1,4 @@
-//Area and Perimeter of Rectangle using pointer
+//Pointer to function
 
 #include <stdio.h>
 void rectangle(int a, int b, int * area, int * perim);
