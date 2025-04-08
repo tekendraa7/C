@@ -1,4 +1,3 @@
-// C program to write a string to a file using fputc
 #include<stdio.h>
 #include<string.h>
 int main(){
