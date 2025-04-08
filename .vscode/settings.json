@@ -5,5 +5,8 @@
 },
 "json.schemas": [
     
-]
+],
+"files.associations": {
+    "stdio.h": "c"
+}
 }

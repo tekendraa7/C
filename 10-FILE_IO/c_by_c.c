@@ -1,6 +1,6 @@
+// C program to write a string to a file using fputc
 #include<stdio.h>
 #include<string.h>
-// This program demonstrates how to write a string to a file character by character using fputc() function.
 int main(){
     FILE *fp;
     char s[] = "I Love File Handling in C";
