@@ -1,3 +1,6 @@
+/* C program to read data from a file character by character
+   and print it to the console. 
+*/
 #include<stdio.h>
 #include<string.h>
 int main(){

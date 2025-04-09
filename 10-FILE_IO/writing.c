@@ -1,3 +1,6 @@
+// This program demonstrates how to write and append strings to a file in C.
+// It uses the `fgets` function to read a string from the standard input
+// and the `fputs` function to write it to a file. The program first opens
 #include<stdio.h>
 #include<string.h>
 #include <stdio.h>
