@@ -1,4 +1,5 @@
-//
+// This program takes two integers as input and checks if one is even and the other is odd.
+// If so, it adds them; otherwise, it multiplies them.
 #include <stdio.h>
 
 int main() {
